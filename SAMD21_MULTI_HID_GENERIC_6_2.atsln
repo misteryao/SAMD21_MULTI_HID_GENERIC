@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SAMD21_MULTI_HID_GENERIC", "SAMD21_MULTI_HID_GENERIC\SAMD21_MULTI_HID_GENERIC_6_2.cproj", "{213B9353-C263-46AE-85F5-4BADAB049ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213B9353-C263-46AE-85F5-4BADAB049ECB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{213B9353-C263-46AE-85F5-4BADAB049ECB}.Debug|ARM.Build.0 = Debug|ARM
+		{213B9353-C263-46AE-85F5-4BADAB049ECB}.Release|ARM.ActiveCfg = Release|ARM
+		{213B9353-C263-46AE-85F5-4BADAB049ECB}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
